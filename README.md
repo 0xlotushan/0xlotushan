@@ -1,9 +1,6 @@
-# lotushan
-
-
 # Hello there 👋
 
-## My Name is Han
+## My Name is Lotushan
 
 ## About Me 🦀
 - Blockchain Engineer with 4+ years of experience.
